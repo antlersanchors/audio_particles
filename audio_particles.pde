@@ -1,7 +1,7 @@
 import ddf.minim.*;
 
 // Wow, Git is like, super fun!!!
-
+// Also, Git is a little confusing...
 Minim minim;
 AudioPlayer player;
  
